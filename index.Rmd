@@ -1,6 +1,6 @@
 ---
 title: "My Final Project Template"
-author: Your name here
+author: Kaitlyn Biehler
 subtitle: Subtitle here if desired
 ---
 
